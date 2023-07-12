@@ -1,2 +1,6 @@
-<h1>Site da Tchêstorm</h1>
-> Status do projeto: Em Desenvolvimento 
+# Site da Tchêstorm
+> Status do projeto: Em Desenvolvimento
+> para rodar esse prejto na sua maquinam por favor digite:
+```
+node app.js
+```
